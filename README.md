@@ -16,6 +16,6 @@ Instead, if I add quotation marks around the term "Denon x3700h recall", I'll fi
 5. Profit
 
 **Quality of Life Features**
-1. Double clicking on a search term in the Google search bar or address bar will usually highlight the world + the space following it. This script will detect if there's a trailing space and remove it before adding the quotation then add the space after the quotations. This feature was added when I was feeling especially lazy one day and wanted to exert the least possible effort at everything.
+Double clicking on a search term in the Google search bar or address bar will usually highlight the world + the space following it. This script will detect if there's a trailing space and remove it before adding the quotation then add the space after the quotations. This feature was added when I was feeling especially lazy one day and wanted to exert the least possible effort at everything.
 
 Hope someone else finds this extremely simple short script as useful as I do on a daily basis, let me know if you find any issues or outliers scenarios or any general improvements you'd like to see! This is my first time writing code and also publishing something on Github so shoutout to the AHK forums and ChatGPT to help me debug and learn from other scripts.
